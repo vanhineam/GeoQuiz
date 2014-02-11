@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71901.aar" >
+        <source path="/home/adam/AndroidStudioProjects/GeoQuiz/GeoQuiz/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/adam/AndroidStudioProjects/GeoQuiz/GeoQuiz/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/adam/AndroidStudioProjects/GeoQuiz/GeoQuiz/src/debug/assets" />
+    </dataSet>
+
+</merger>
